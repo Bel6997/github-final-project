@@ -11,3 +11,8 @@ Input:
    r, annual rate of interest
 Output
    simple interest = p*t*r/100
+
+⭐ Star us on GitHub: your support motivates us a lot! 🙏😊
+Creado en Sept del 2026
+LICENSE
+A large part of this project is licensed under the Apache 2.0 license. The only exception are the components under the ee (enterprise edition) directory
